@@ -152,4 +152,4 @@ The creators and maintainers of this project are not liable for any damages, acc
 
 ## 📜 License
 
-[MIT License](LICENSE)© Mark Terence Tiglao - 2025
+[MIT License](LICENSE)© Mark Terence Tiglao - 2026
